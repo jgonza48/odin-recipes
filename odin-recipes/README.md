@@ -1,0 +1,1 @@
+This is a simple recipe project that I am doing from the Odin Project.
